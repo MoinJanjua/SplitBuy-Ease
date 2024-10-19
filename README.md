@@ -48,14 +48,6 @@ SplitBuy Ease is more than just a point of sale system—it's a complete busines
 
 Download SplitBuy Ease from the App Store: [Download Now](https://apps.apple.com/us/app/splitbuy-ease/id6737029410)
 
-## Contributing
-
-We welcome contributions! Please read our [CONTRIBUTING.md](link-to-contributing-guide) for more information on how to get involved.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](link-to-license) file for details.
-
 ---
 
 For any inquiries or support, please contact us at [janjuamoin9@gmail.com](mailto:janjuamoin9@gmail.com).
