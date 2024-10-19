@@ -1,6 +1,6 @@
 # SplitBuy Ease
 
-[![SplitBuy Ease on the App Store](https://link-to-your-app-icon.com)](https://apps.apple.com/us/app/splitbuy-ease/id6737029410)
+[![SplitBuy Ease on the App Store]([https://link-to-your-app-icon.com](https://github.com/MoinJanjua/SplitBuy-Ease/blob/main/SplitBuy%20Ease%201290%20x%202796/2.png))](https://apps.apple.com/us/app/splitbuy-ease/id6737029410)
 
 Welcome to **SplitBuy Ease**, the ultimate solution for small businesses looking to streamline their sales, inventory, and customer management all in one place. Whether you're running a retail store, a service-based business, or a franchise, our app provides a comprehensive set of tools to simplify your day-to-day operations and enhance customer satisfaction.
 
